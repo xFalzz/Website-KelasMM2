@@ -79,7 +79,7 @@ body {
 			rgba(243, 59, 27, 0.13) 0%,
 			rgba(255, 30, 30, 0.342) 90%
 		),
-		url("public/Kenangan.jpg");
+		url("/Kenangan.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
