@@ -15,7 +15,7 @@ Apa yang dapat Anda temukan di web ini:
 - Structure And Schedule: Memberikan informasi rinci tentang struktur kelas dan jadwal yang tersedia.
 
 Project ini di buat oleh :
-- Eki
+- EkiZr
 - Dafy
 
 Remodeled Oleh :
